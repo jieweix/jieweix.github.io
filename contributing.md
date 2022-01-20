@@ -5,7 +5,7 @@
 3. make sure you have a space between "No." and the number after it
 4. for multiple numbered works, write in this format: ...s [plural form] Nos. #-#, #.
 5. write names in their original language. for exmaple, instead of "Takashi Asahina" or "Osaka Philharmonic Orchestra", write "朝比奈隆" and "大阪フィルハーモニー交響楽団".
-6. make sure you get all the diacritics right (a good example: Elżbieta Stefańska). if you're not sure, use Wikipedia.
+6. make sure you get all the diacritics, umlauts and other orthographic stuff right (a good example: Elżbieta Stefańska). if you're not sure, use Wikipedia.
 
 ### images
 1. images are in the `images` folder. file names should be `[CDnumber]_cover/back.jpg`. If there is a space in the CD number, use `_`.
@@ -16,4 +16,4 @@
 1. if everything is normal with the CD (you still own it and didn't sell it or give to anyone, you have the obi, etc.), don't write anything in the "condition" column. if you are fortunate enough to have an autograph on the CD, do note that in the table.
 2. the "year" column is for publication date, which should not be confused with recording date. it's useful when you are comparing different issues of the same recording.
 
-otherwise, I guess happy contributing!
+**otherwise, I guess happy contributing!**
