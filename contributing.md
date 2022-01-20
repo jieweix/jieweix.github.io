@@ -4,8 +4,9 @@
 2. for composers with last names easily confused with others (e.g. Bach. which Bach do you mean?), write something like Bach, J.S.
 3. make sure you have a space between "No." and the number after it
 4. for multiple numbered works, write in this format: ...s [plural form] Nos. #-#, #.
-5. write names in their original language. for exmaple, instead of "Takashi Asahina" or "Osaka Philharmonic Orchestra", write "朝比奈隆" and "大阪フィルハーモニー交響楽団".
-6. make sure you get all the diacritics, umlauts and other orthographic stuff right (a good example: Elżbieta Stefańska). if you're not sure, use Wikipedia.
+5. include every artist featured in the recording. for example, for a recording of Beethoven's ninth symphony, you should include the SATB soloists (preferably in that order) and in another line (don't make the cell too wide). maybe don't include chorus/concert master as they are not particularly soloists but part of the orchestra/choir.
+6. write names in their original language. for exmaple, instead of "Takashi Asahina" or "Osaka Philharmonic Orchestra", write "朝比奈隆" and "大阪フィルハーモニー交響楽団".
+7. make sure you get all the diacritics, umlauts and other orthographic stuff right (a good example: Elżbieta Stefańska). if you're not sure, use Wikipedia.
 
 ### images
 1. images are in the `images` folder. file names should be `[CDnumber]_cover/back.jpg`. If there is a space in the CD number, use `_`.
