@@ -14,6 +14,7 @@
 1. images are in the `images` folder. file names should be `[CDnumber]_cover/back.jpg`. If there is a space in the CD number, use `_`.
 2. they should have a height of 576 pixels (if not lower) and displayed in 150 pixels.
 3. find the best images available which display details nicely (even better if you can upload the images you scanned!). aucfree.com is a good website for doing that, though you might need a VPN to visit it. when necessary, use your image editor to adjust the angles and stuff.
+4. if you can, please find scanned images that show obi on both cover and back (a current good example: PCCL-00204), since the obi contains key information such as the barcode and dates of different issues.
 
 ### other things
 1. if everything is normal with the CD (you still own it and didn't sell it or give to anyone, you have the obi, etc.), don't write anything in the "condition" column. if you are fortunate enough to have an autograph on the CD, do note that in the table.
