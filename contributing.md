@@ -17,7 +17,7 @@
 4. if you can, please find scanned images that show obi on both cover and back (a current good example: PCCL-00204), since the obi contains key information such as the barcode and dates of different issues.
 
 ### other things
-1. if everything is normal with the CD (you still own it and didn't sell it or give to anyone, you have the obi, etc.), don't write anything in the "condition" column. if you are fortunate enough to have an autograph on the CD, do note that in the table.
+1. if everything is normal with the CD (you still own it and didn't sell it or give it to anyone, you have the obi, etc.), don't write anything in the "condition" column. if you are fortunate enough to have an autograph on the CD, do note that in the table.
 2. the "year" column is for publication date, which should not be confused with recording date. it's useful when you are comparing different issues of the same recording.
 3. always use halfwidth characters.
 
