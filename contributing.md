@@ -6,7 +6,7 @@
 4. for multiple numbered works, write in this format: ...s [plural form] Nos. #-#, #.
 5. get the letter case right. a good example: Le Sacre du printemps. if you're not sure, use Wikipedia.
 6. include every artist featured in the recording. for example, for a recording of Beethoven's ninth symphony, you should include the SATB soloists (preferably in that order) and in another line (don't make the cell too wide). maybe don't include chorus/concert master as they are not particularly soloists but part of the orchestra/choir.
-7. write names in their original language. for exmaple, instead of "Takashi Asahina" or "Osaka Philharmonic Orchestra", write "朝比奈隆" and "大阪フィルハーモニー交響楽団".
+7. write names in their original language. for examaple, instead of "Takashi Asahina" or "Osaka Philharmonic Orchestra", write "朝比奈隆" and "大阪フィルハーモニー交響楽団".
 8. make sure you get all the diacritics, umlauts and other orthographic stuff right (a good example: Elżbieta Stefańska). again Wikipedia is useful.
 9. when it comes to concerto recordings, put the name of conductor and orchestra before the soloist(s).
 
