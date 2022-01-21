@@ -1,6 +1,9 @@
 ### some rules for titles and artists' names:
 
-1. if there is no specific title (e.g. '95 Czech Philharmonic Silvester Concert Live), then write the title following this format: Composer 1, Composer 2: Work titles of Composer 1, of Composer 2.
+1. if there is no specific title (e.g. '95 Czech Philharmonic Silvester Concert Live), then write the title following this format:
+Composer 1: Work titles of Composer 1;
+...
+Composer n: Work titles of Composer n.
 2. for composers with last names easily confused with others (e.g. Bach. which Bach do you mean?), write something like Bach, J.S.
 3. make sure you have a space between "No." and the number after it.
 4. for multiple numbered works, write in this format: ...s [plural form] Nos. #-#, #.
